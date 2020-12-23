@@ -58,3 +58,6 @@
 [submodule "wireless/wifite2"]
 	path = wireless/wifite2
 	url = https://github.com/derv82/wifite2.git
+[submodule "web/gobuster"]
+	path = web/gobuster
+	url = https://github.com/OJ/gobuster.git
