@@ -1,0 +1,60 @@
+[submodule "certs/CarbonCopy"]
+	path = certs/CarbonCopy
+	url = https://github.com/A1S0N/CarbonCopy.git
+[submodule "certs/crypto/CyberChef"]
+	path = certs/crypto/CyberChef
+	url = https://github.com/gchq/CyberChef.git
+[submodule "certs/osint/WhatBreach"]
+	path = certs/osint/WhatBreach
+	url = https://github.com/Ekultek/WhatBreach.git
+[submodule "certs/osint/userrecon"]
+	path = certs/osint/userrecon
+	url = https://github.com/AbirHasan2005/UserRecon.git
+[submodule "network/Responder"]
+	path = network/Responder
+	url = https://github.com/SpiderLabs/Responder.git
+[submodule "network/Vxscan"]
+	path = network/Vxscan
+	url = https://github.com/al0ne/Vxscan.git
+[submodule "network/bettercap"]
+	path = network/bettercap
+	url = https://github.com/bettercap/bettercap.git
+[submodule "passwords/JohnTheRipper"]
+	path = passwords/JohnTheRipper
+	url = https://github.com/openwall/john.git
+[submodule "passwords/hashcat"]
+	path = passwords/hashcat
+	url = https://github.com/hashcat/hashcat.git
+[submodule "passwords/hashcat-utils"]
+	path = passwords/hashcat-utils
+	url = https://github.com/hashcat/hashcat-utils.git
+[submodule "passwords/nsa-rules"]
+	path = passwords/nsa-rules
+	url = https://github.com/NSAKEY/nsa-rules.git
+[submodule "web/CMSeek"]
+	path = web/CMSeek
+	url = https://github.com/Tuhinshubhra/CMSeeK.git
+[submodule "web/dirsearch"]
+	path = web/dirsearch
+	url = https://github.com/maurosoria/dirsearch.git
+[submodule "web/dvcs-ripper"]
+	path = web/dvcs-ripper
+	url = https://github.com/kost/dvcs-ripper.git
+[submodule "web/joomscan"]
+	path = web/joomscan
+	url = https://github.com/OWASP/joomscan.git
+[submodule "web/wpscan"]
+	path = web/wpscan
+	url = https://github.com/wpscanteam/wpscan.git
+[submodule "wireless/airgeddon"]
+	path = wireless/airgeddon
+	url = https://github.com/v1s1t0r1sh3r3/airgeddon.git
+[submodule "wireless/hcxdumptool"]
+	path = wireless/hcxdumptool
+	url = https://github.com/ZerBea/hcxdumptool.git
+[submodule "wireless/hcxtools"]
+	path = wireless/hcxtools
+	url = https://github.com/ZerBea/hcxtools.git
+[submodule "wireless/wifite2"]
+	path = wireless/wifite2
+	url = https://github.com/derv82/wifite2.git
