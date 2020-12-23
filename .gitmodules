@@ -73,3 +73,6 @@
 [submodule "mobile/koroni"]
 	path = mobile/koroni
 	url = https://github.com/DeepSociety/koroni.git
+[submodule "network/sslstrip"]
+	path = network/sslstrip
+	url = https://github.com/nvlbg/sslstrip.git
