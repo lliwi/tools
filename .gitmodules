@@ -91,3 +91,12 @@
 [submodule "nfc/DrSchottky-mfcuk"]
 	path = nfc/DrSchottky-mfcuk
 	url = https://github.com/DrSchottky/mfcuk.git
+[submodule "sdr/CubicSDR"]
+	path = sdr/CubicSDR
+	url = https://github.com/cjcliffe/CubicSDR.git
+[submodule "sdr/gps-sdr-sim"]
+	path = sdr/gps-sdr-sim
+	url = https://github.com/osqzss/gps-sdr-sim.git
+[submodule "sdr/IMSI-catcher"]
+	path = sdr/IMSI-catcher
+	url = https://github.com/Oros42/IMSI-catcher.git
