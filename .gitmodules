@@ -76,3 +76,18 @@
 [submodule "network/sslstrip"]
 	path = network/sslstrip
 	url = https://github.com/nvlbg/sslstrip.git
+[submodule "nfc/proxmark3"]
+	path = nfc/proxmark3
+	url = https://github.com/RfidResearchGroup/proxmark3.git
+[submodule "nfc/mfcuk"]
+	path = nfc/mfcuk
+	url = https://github.com/nfc-tools/mfcuk.git
+[submodule "nfc/mfoc"]
+	path = nfc/mfoc
+	url = https://github.com/nfc-tools/mfoc.git
+[submodule "nfc/mfoc-hardnested"]
+	path = nfc/mfoc-hardnested
+	url = https://github.com/nfc-tools/mfoc-hardnested.git
+[submodule "nfc/DrSchottky-mfcuk"]
+	path = nfc/DrSchottky-mfcuk
+	url = https://github.com/DrSchottky/mfcuk.git
