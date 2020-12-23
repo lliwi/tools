@@ -61,3 +61,12 @@
 [submodule "web/gobuster"]
 	path = web/gobuster
 	url = https://github.com/OJ/gobuster.git
+[submodule "ldap/impacket"]
+	path = ldap/impacket
+	url = https://github.com/SecureAuthCorp/impacket.git
+[submodule "ldap/kerbrute"]
+	path = ldap/kerbrute
+	url = https://github.com/TarlogicSecurity/kerbrute.git
+[submodule "ldap/KerberosUserEnum"]
+	path = ldap/KerberosUserEnum
+	url = https://github.com/QAX-A-Team/KerberosUserEnum.git
