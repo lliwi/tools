@@ -100,3 +100,6 @@
 [submodule "sdr/IMSI-catcher"]
 	path = sdr/IMSI-catcher
 	url = https://github.com/Oros42/IMSI-catcher.git
+[submodule "nfc/mfdread"]
+	path = nfc/mfdread
+	url = https://github.com/zhovner/mfdread.git
