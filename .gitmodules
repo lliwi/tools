@@ -112,3 +112,9 @@
 [submodule "privilege-escalation/privilege-escalation-awesome-scripts-suite"]
 	path = privilege-escalation/privilege-escalation-awesome-scripts-suite
 	url = https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite.git
+[submodule "wordlist/SecLists"]
+	path = wordlist/SecLists
+	url = https://github.com/danielmiessler/SecLists.git
+[submodule "osint/theHarvester"]
+	path = osint/theHarvester
+	url = https://github.com/laramies/theHarvester.git
