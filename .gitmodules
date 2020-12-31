@@ -109,3 +109,6 @@
 [submodule "osint/dnsrecon"]
 	path = osint/dnsrecon
 	url = https://github.com/darkoperator/dnsrecon.git
+[submodule "privilege-escalation/privilege-escalation-awesome-scripts-suite"]
+	path = privilege-escalation/privilege-escalation-awesome-scripts-suite
+	url = https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite.git
