@@ -121,3 +121,9 @@
 [submodule "wordlist/cupp"]
 	path = wordlist/cupp
 	url = https://github.com/Mebus/cupp.git
+[submodule "web/cipherscan"]
+	path = web/cipherscan
+	url = https://github.com/mozilla/cipherscan.git
+[submodule "web/ssllabs-scan"]
+	path = web/ssllabs-scan
+	url = https://github.com/ssllabs/ssllabs-scan.git
