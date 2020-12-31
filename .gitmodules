@@ -118,3 +118,6 @@
 [submodule "osint/theHarvester"]
 	path = osint/theHarvester
 	url = https://github.com/laramies/theHarvester.git
+[submodule "wordlist/cupp"]
+	path = wordlist/cupp
+	url = https://github.com/Mebus/cupp.git
