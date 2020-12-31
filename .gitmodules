@@ -103,3 +103,6 @@
 [submodule "nfc/mfdread"]
 	path = nfc/mfdread
 	url = https://github.com/zhovner/mfdread.git
+[submodule "web/nikto"]
+	path = web/nikto
+	url = https://github.com/sullo/nikto.git
