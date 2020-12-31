@@ -106,3 +106,6 @@
 [submodule "web/nikto"]
 	path = web/nikto
 	url = https://github.com/sullo/nikto.git
+[submodule "osint/dnsrecon"]
+	path = osint/dnsrecon
+	url = https://github.com/darkoperator/dnsrecon.git
