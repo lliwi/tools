@@ -127,3 +127,6 @@
 [submodule "web/ssllabs-scan"]
 	path = web/ssllabs-scan
 	url = https://github.com/ssllabs/ssllabs-scan.git
+[submodule "web/webpwn3r"]
+	path = web/webpwn3r
+	url = https://github.com/zigoo0/webpwn3r.git
