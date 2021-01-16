@@ -130,3 +130,6 @@
 [submodule "web/webpwn3r"]
 	path = web/webpwn3r
 	url = https://github.com/zigoo0/webpwn3r.git
+[submodule "osint/Amass"]
+	path = osint/Amass
+	url = https://github.com/OWASP/Amass.git
