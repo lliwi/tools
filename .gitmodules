@@ -133,3 +133,6 @@
 [submodule "osint/Amass"]
 	path = osint/Amass
 	url = https://github.com/OWASP/Amass.git
+[submodule "post/post/pypykatz"]
+	path = post/post/pypykatz
+	url = https://github.com/skelsec/pypykatz.git
