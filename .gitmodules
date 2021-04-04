@@ -133,3 +133,6 @@
 [submodule "osint/Amass"]
 	path = osint/Amass
 	url = https://github.com/OWASP/Amass.git
+[submodule "osint/holehe"]
+	path = osint/holehe
+	url = https://github.com/megadose/holehe.git
