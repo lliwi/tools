@@ -136,3 +136,6 @@
 [submodule "osint/holehe"]
 	path = osint/holehe
 	url = https://github.com/megadose/holehe.git
+[submodule "network/nmapAutomator"]
+	path = network/nmapAutomator
+	url = https://github.com/21y4d/nmapAutomator.git
