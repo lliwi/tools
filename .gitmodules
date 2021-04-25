@@ -142,3 +142,9 @@
 [submodule "web/CrimeFlare"]
 	path = web/CrimeFlare
 	url = https://github.com/zidansec/CrimeFlare.git
+[submodule "web/xsser"]
+	path = web/xsser
+	url = https://github.com/epsylon/xsser.git
+[submodule "web/XSStrike"]
+	path = web/XSStrike
+	url = https://github.com/s0md3v/XSStrike.git
