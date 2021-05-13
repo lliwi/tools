@@ -148,3 +148,6 @@
 [submodule "web/XSStrike"]
 	path = web/XSStrike
 	url = https://github.com/s0md3v/XSStrike.git
+[submodule "osint/Sublist3r"]
+	path = osint/Sublist3r
+	url = https://github.com/aboul3la/Sublist3r.git
