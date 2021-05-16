@@ -151,3 +151,6 @@
 [submodule "osint/Sublist3r"]
 	path = osint/Sublist3r
 	url = https://github.com/aboul3la/Sublist3r.git
+[submodule "Cheatsheet-God"]
+	path = Cheatsheet-God
+	url = https://github.com/OlivierLaflamme/Cheatsheet-God.git
