@@ -160,3 +160,6 @@
 [submodule "osint/assetfinder"]
 	path = osint/assetfinder
 	url = https://github.com/tomnomnom/assetfinder.git
+[submodule "web/httprobe"]
+	path = web/httprobe
+	url = https://github.com/tomnomnom/httprobe.git
