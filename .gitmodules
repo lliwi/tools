@@ -157,3 +157,6 @@
 [submodule "web/nuclei"]
 	path = web/nuclei
 	url = https://github.com/projectdiscovery/nuclei.git
+[submodule "osint/assetfinder"]
+	path = osint/assetfinder
+	url = https://github.com/tomnomnom/assetfinder.git
