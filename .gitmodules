@@ -154,3 +154,6 @@
 [submodule "Cheatsheet-God"]
 	path = Cheatsheet-God
 	url = https://github.com/OlivierLaflamme/Cheatsheet-God.git
+[submodule "web/nuclei"]
+	path = web/nuclei
+	url = https://github.com/projectdiscovery/nuclei.git
