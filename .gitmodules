@@ -178,3 +178,6 @@
 [submodule "web/Arjun"]
 	path = web/Arjun
 	url = https://github.com/s0md3v/Arjun.git
+[submodule "osint/AnalyticsRelationships"]
+	path = osint/AnalyticsRelationships
+	url = https://github.com/Josue87/AnalyticsRelationships.git
