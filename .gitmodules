@@ -169,3 +169,6 @@
 [submodule "web/wfuzz"]
 	path = web/wfuzz
 	url = https://github.com/xmendez/wfuzz.git
+[submodule "web/vaf"]
+	path = web/vaf
+	url = https://github.com/d4rckh/vaf.git
