@@ -166,3 +166,6 @@
 [submodule "osint/Subcert"]
 	path = osint/Subcert
 	url = https://github.com/A3h1nt/Subcert.git
+[submodule "web/wfuzz"]
+	path = web/wfuzz
+	url = https://github.com/xmendez/wfuzz.git
