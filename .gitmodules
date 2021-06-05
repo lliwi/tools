@@ -163,3 +163,6 @@
 [submodule "web/httprobe"]
 	path = web/httprobe
 	url = https://github.com/tomnomnom/httprobe.git
+[submodule "osint/Subcert"]
+	path = osint/Subcert
+	url = https://github.com/A3h1nt/Subcert.git
