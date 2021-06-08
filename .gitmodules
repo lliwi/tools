@@ -181,3 +181,12 @@
 [submodule "osint/AnalyticsRelationships"]
 	path = osint/AnalyticsRelationships
 	url = https://github.com/Josue87/AnalyticsRelationships.git
+[submodule "web/gau"]
+	path = web/gau
+	url = https://github.com/lc/gau.git
+[submodule "web/kxss"]
+	path = web/kxss
+	url = https://github.com/Emoe/kxss.git
+[submodule "web/dalfox"]
+	path = web/dalfox
+	url = https://github.com/hahwul/dalfox.git
