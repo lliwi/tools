@@ -151,9 +151,6 @@
 [submodule "osint/Sublist3r"]
 	path = osint/Sublist3r
 	url = https://github.com/aboul3la/Sublist3r.git
-[submodule "Cheatsheet-God"]
-	path = Cheatsheet-God
-	url = https://github.com/OlivierLaflamme/Cheatsheet-God.git
 [submodule "web/nuclei"]
 	path = web/nuclei
 	url = https://github.com/projectdiscovery/nuclei.git
@@ -190,3 +187,24 @@
 [submodule "web/dalfox"]
 	path = web/dalfox
 	url = https://github.com/hahwul/dalfox.git
+[submodule "cheatsheet/xss-payload-list"]
+	path = cheatsheet/xss-payload-list
+	url = https://github.com/payloadbox/xss-payload-list.git
+[submodule "cheatsheet/command-injection-payload-list"]
+	path = cheatsheet/command-injection-payload-list
+	url = https://github.com/payloadbox/command-injection-payload-list.git
+[submodule "cheatsheet/sql-injection-payload-list"]
+	path = cheatsheet/sql-injection-payload-list
+	url = https://github.com/payloadbox/sql-injection-payload-list.git
+[submodule "cheatsheet/open-redirect-payload-list"]
+	path = cheatsheet/open-redirect-payload-list
+	url = https://github.com/payloadbox/open-redirect-payload-list.git
+[submodule "cheatsheet/xxe-injection-payload-list"]
+	path = cheatsheet/xxe-injection-payload-list
+	url = https://github.com/payloadbox/xxe-injection-payload-list.git
+[submodule "cheatsheet/rfi-lfi-payload-list"]
+	path = cheatsheet/rfi-lfi-payload-list
+	url = https://github.com/payloadbox/rfi-lfi-payload-list.git
+[submodule "cheatsheet/Cheatsheet-God"]
+	path = cheatsheet/Cheatsheet-God
+	url = https://github.com/OlivierLaflamme/Cheatsheet-God.git
