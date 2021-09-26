@@ -208,3 +208,6 @@
 [submodule "cheatsheet/Cheatsheet-God"]
 	path = cheatsheet/Cheatsheet-God
 	url = https://github.com/OlivierLaflamme/Cheatsheet-God.git
+[submodule "osint/subbrute"]
+	path = osint/subbrute
+	url = https://github.com/TheRook/subbrute.git
