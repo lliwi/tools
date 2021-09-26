@@ -214,3 +214,9 @@
 [submodule "web/nuclei-templates"]
 	path = web/nuclei-templates
 	url = https://github.com/projectdiscovery/nuclei-templates.git
+[submodule "osint/puredns"]
+	path = osint/puredns
+	url = https://github.com/d3mondev/puredns.git
+[submodule "osint/massdns"]
+	path = osint/massdns
+	url = https://github.com/blechschmidt/massdns.git
