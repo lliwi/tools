@@ -220,3 +220,6 @@
 [submodule "osint/massdns"]
 	path = osint/massdns
 	url = https://github.com/blechschmidt/massdns.git
+[submodule "web/network-fingerprint"]
+	path = web/network-fingerprint
+	url = https://github.com/projectdiscovery/network-fingerprint.git
