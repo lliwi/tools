@@ -139,9 +139,6 @@
 [submodule "network/nmapAutomator"]
 	path = network/nmapAutomator
 	url = https://github.com/21y4d/nmapAutomator.git
-[submodule "web/CrimeFlare"]
-	path = web/CrimeFlare
-	url = https://github.com/zidansec/CrimeFlare.git
 [submodule "web/xsser"]
 	path = web/xsser
 	url = https://github.com/epsylon/xsser.git
