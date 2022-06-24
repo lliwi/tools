@@ -1,4 +1,16 @@
-#CarbonCopy
+#update 
+sudo apt update && sudo apt upgrade
+
+#go lang
+sudo apt install -y golang
+
+echo  "# golang env" >> /home/kali/.zshrc
+echo "export GOPATH=$HOME/go" >> /home/kali/.zshrc
+echo "export PATH=$GOPATH/bin:$GOROOT/bin:$PATH" >> /home/kali/.zshrc
+
+source /home/kali/.zshrc
+
+#CarbonCopyexport GOROOT=/usr/lib/go
 sudo apt install osslsigncode -y
 pip3 install pyopenssl
 
