@@ -70,7 +70,6 @@ mv main httprobe
 sudo cp httprobe /usr/bin
 
 #nuclei
-cd /opt/tools/web/nuclei
 sudo apt install nuclei
 
 #airgedon
