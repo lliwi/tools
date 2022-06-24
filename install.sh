@@ -73,6 +73,10 @@ sudo cp httprobe /usr/bin
 cd /opt/tools/web/nuclei
 sudo apt install nuclei
 
+#airgedon
+sudo apt install xterm bettercap hostapd-wpe dsniff isc-dhcp-server asleap hostapd mdk4 sslstrip hcxdumptool hcxtools beef-xss lighttpd
+
+
 
 
 
