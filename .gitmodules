@@ -220,3 +220,6 @@
 [submodule "web/network-fingerprint"]
 	path = web/network-fingerprint
 	url = https://github.com/projectdiscovery/network-fingerprint.git
+[submodule "web/IIS-ShortName-Scanner"]
+	path = web/IIS-ShortName-Scanner
+	url = https://github.com/irsdl/IIS-ShortName-Scanner.git
